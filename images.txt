@@ -1,2 +1,1 @@
-confluentinc/cp-zookeeper:latest
-confluentinc/cp-kafka:latest
+langgenius/dify-api:0.6.10
